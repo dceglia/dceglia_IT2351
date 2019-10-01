@@ -13,3 +13,5 @@ Created new script by going to file --> open SQL script --> and selecting davece
 According to Murach's "MySQL", "a join combines columns from two or more tables into a result set based on the join conditions you specify. For an inner join, only those rows that satisfy the join condition are included in the result set... an outer join returns all of the rows from one of the tables involved in the join, regardless of whether the join condition is true."
 
 <h3>Conclusion</h3>
+
+This exercise was good practice into creating scripts and working with a database. It familiarizes students with the SQL software and introduces beginning topics in searching for data in a database. I'm going to need to practice more with joining tables and inserting new columns. I enjoyed learning this new database syntax.
