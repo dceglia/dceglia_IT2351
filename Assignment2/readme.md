@@ -11,6 +11,8 @@ A query of customer and shipping information. This query used the ascending sort
 
 A query of order details like product #, price and quantity that used a where clause.
 
+Note: Unable to sort results by product name due to their not being that column in the order_details table.
+
 ### Query 3
 
 A query of employee names and their hire date. It used the CONCAT function to create a uniquely named column with first and last names.
@@ -18,3 +20,5 @@ A query of employee names and their hire date. It used the CONCAT function to cr
 ### Query 4
 
 A query of order date information. This query required the DATE_FORMAT function and a where and order by clause.
+
+Note: Used the orders table due to the order_details table not having any date fields to work with.
